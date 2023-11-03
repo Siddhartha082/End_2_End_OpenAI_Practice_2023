@@ -34,7 +34,7 @@ python setup.py install
 
 # 4 Major task implemented using openai library 
 
-#1 . Completion Chat
+#1 . Completion API_Keys
 
 #2. Function calling
 
