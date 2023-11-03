@@ -1,5 +1,6 @@
 # OpenAI Python Library
 
+
 The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language. It includes a pre-defined set of classes for API resources that initialize themselves dynamically from API responses which makes it compatible with a wide range of versions of the OpenAI API.
 
 You can find usage examples for the OpenAI Python library in our API reference and the OpenAI Cookbook.
@@ -18,11 +19,14 @@ pip install --pre openai
 
 To start, ensure you have Python 3.7.1 or newer. If you just want to use the package, run:
 
+
 pip install --upgrade openai
+
 
 After you have installed the package, import it at the top of a file:
 
 import  openai
+
 
 To install this package from source to make modifications to it, run the following command from the root of the repository:
 
