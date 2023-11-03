@@ -32,7 +32,7 @@ To install this package from source to make modifications to it, run the followi
 
 python setup.py install
 
-# 4 Major task implemented using openai library 
+# 5 Major task implemented using openai library 
 
 #1 . Completion API_Keys
 
