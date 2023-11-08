@@ -42,4 +42,4 @@ python setup.py install
 
 #4. Embedding ( Pickle File )
 
-#5. Text to Speech 
+#5. Text to Speech ( DALL-E) 
