@@ -38,8 +38,8 @@ python setup.py install
 
 #2. Function calling
 
-#3. Image Generation
+#3. Image Generation( DALLE) 
 
 #4. Embedding ( Pickle File )
 
-#5. Text to Speech ( DALL-E) 
+#5. Text to Speech 
